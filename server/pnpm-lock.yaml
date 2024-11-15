@@ -30,6 +30,9 @@ importers:
       '@types/express':
         specifier: ^5.0.0
         version: 5.0.0
+      '@types/node':
+        specifier: ^22.9.0
+        version: 22.9.0
       '@types/node-fetch':
         specifier: ^2.6.12
         version: 2.6.12
