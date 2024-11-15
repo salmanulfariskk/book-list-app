@@ -11,9 +11,10 @@
      "experimentalDecorators": true,
      "emitDecoratorMetadata": true,
      "typeRoots": ["node_modules/@types"],
-     "types": ["node"] // Explicitly include Node.js types
+     "types": ["node"] // Include Node.js types
    },
    "include": ["src/**/*.ts", "src/types/**/*.d.ts"],
    "exclude": ["node_modules"]
  }
+ 
  
