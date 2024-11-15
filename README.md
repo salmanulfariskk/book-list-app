@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/API%20Documentation-Postman-orange?logo=postman&style=for-the-badge" alt="API Documentation">
   </a>
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20App-Books%20Hub-green?style=for-the-badge" alt="Live App">
+    <img src="https://book-list-app-lac.vercel.app/" alt="Live App">
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 <h2>🚀 Getting Started</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone </code></pre>
+    <pre><code>git clone https://github.com/salmanulfariskk/book-list-app.git</code></pre>
   </li>
   <li>Navigate into the project directory:
     <pre><code>cd books-list-app</code></pre>
